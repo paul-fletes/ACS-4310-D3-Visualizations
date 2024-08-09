@@ -1,0 +1,5 @@
+1. Which state has the highest population in each age group?
+
+2. How does the population distribution across age groups vary among different states?
+
+3. What is the proportion of elderly population (70+) compared to younger groups in each state?

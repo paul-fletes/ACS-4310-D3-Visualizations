@@ -1,0 +1,5 @@
+1. How does the temperature vary with humidity levels throughout the year?
+
+2. Is there a significant correlation between high humidity and temperature extremes in New York?
+
+3. Does increased humidity lead to higher temperatures in New York during certain months or seasons?

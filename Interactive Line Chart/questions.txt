@@ -1,0 +1,5 @@
+1. How has the stock price trended over the given time period?
+
+2. Were there any significant fluctuations in stock closing price during a given period?
+
+3. What was the stock's highest/lowest closing price over the observed period, and when did they occur?
